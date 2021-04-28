@@ -1,3 +1,2 @@
 # TestRepo
-Git seems easier than it's made out to be.
-Nail it down soon!
+Keeping up with practice, will be moving on to mastering projects soon
